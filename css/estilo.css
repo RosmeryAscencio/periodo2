@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(245, 180, 245);
+   }
+   h1 {
+    color:cyan;
+    text-align: center;
+   }
+
+   p {
+   font-family:Algerian;
+    font-size: 20px;
+    color: pink;
+    text-align: center;
+   }
+
+   #greentext {
+      color: coral;
+    }
+    .texto-grande {
+    font-size: 180px;
+       }
+
+       img{
+         border: 5px;
+         border-style: double;
+         color: cyan;
+         display: block;
+         margin:auto;
+         
+      
+        }
+
+        .color-fond {
+          background-color: blue;
+        }
